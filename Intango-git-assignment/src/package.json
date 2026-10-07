@@ -1,0 +1,9 @@
+{
+  "name": "intango-marks-analysis",
+  "version": "1.0.0",
+  "description": "JavaScript marks analysis system",
+  "main": "src/marks.js",
+  "scripts": {
+    "start": "node src/marks.js"
+  }
+}
