@@ -36,6 +36,10 @@ Member 3:
 - Testing
 - Code review
 
+<<<<<<< HEAD
 ## Git Work
 
+=======
+## Git WorkFflow
+>>>>>>> main
 The team uses Git branches, commits, pull requests and peer reviews.
