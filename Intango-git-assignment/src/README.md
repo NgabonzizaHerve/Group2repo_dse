@@ -28,7 +28,7 @@ Member 1:
 - JavaScript development
 - Testing
 
-Member 2:
+Member 2
 - Git and GitHub management
 - Documentation
 
@@ -36,6 +36,5 @@ Member 3:
 - Testing
 - Code review
 
-## Git Workflow
-
+## Git Work
 The team uses Git branches, commits, pull requests and peer reviews.
