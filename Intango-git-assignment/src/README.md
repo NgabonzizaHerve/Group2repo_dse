@@ -28,7 +28,7 @@ Member 1:
 - JavaScript development
 - Testing
 
-Member 2:
+Member 2
 - Git and GitHub management
 - Documentation
 
